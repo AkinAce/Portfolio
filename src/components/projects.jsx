@@ -18,7 +18,7 @@ const Projects = () => {
                         <div className="projectInfoText">
                             <h3>Portfolio Website </h3>
                             <span className="myBadge">
-                                <a title="Live Link to Personal Website" href="akintunde.dev" >Live Site</a>
+                                <a title="Live Link to Personal Website" href="https://www.akintunde.dev/" >Live Site</a>
                             </span>
                             <span className="myBadge">
                                 <a title="Personal Website Github" href="https://github.com/AkinAce/Portfolio" >Github</a>
