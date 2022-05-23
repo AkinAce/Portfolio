@@ -1,0 +1,22 @@
+svg#freepik_stories-get-in-touch:not(.animated) .animable {opacity: 0;}
+svg#freepik_stories-get-in-touch.animated #freepik--Pictures--inject-66 {animation: 1.5s Infinite  linear floating;animation-delay: 0s;}
+svg#freepik_stories-get-in-touch.animated #freepik--Table--inject-66 {animation: 1.5s Infinite  linear floating;animation-delay: 0s;}
+svg#freepik_stories-get-in-touch.animated #freepik--Device--inject-66 {animation: 1.5s Infinite  linear floating;animation-delay: 0s;}
+svg#freepik_stories-get-in-touch.animated #freepik--Icons--inject-66 {animation: 1.5s Infinite  linear floating;animation-delay: 0s;}
+svg#freepik_stories-get-in-touch.animated #freepik--Window--inject-66 {animation: 1.5s Infinite  linear floating;animation-delay: 0s;}
+svg#freepik_stories-get-in-touch.animated #freepik--character-2--inject-66 {animation: 1.5s Infinite  linear floating;animation-delay: 0s;}
+svg#freepik_stories-get-in-touch.animated #freepik--character-1--inject-66 {animation: 1.5s Infinite  linear floating;animation-delay: 0s;}           
+ @keyframes floating {                
+     0% {                    
+         opacity: 1;                    
+         transform: translateY(0px);                
+        }                
+    50% {                    
+        transform: translateY(-10px);                
+        }                
+    100% {                    
+        opacity: 1;                    
+        transform: translateY(0px);                
+        }            
+            }        
+.animator-hidden { display: none; }
