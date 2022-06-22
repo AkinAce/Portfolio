@@ -6,8 +6,8 @@ class NavBar extends Component {
     state = {  } 
     render() { 
         return (
-        <nav class="navbar container">
-        <a href="#homepage" class="logo"><img  class="logos" src={Logo} alt="Web Page Logo" /></a>
+        <nav class="navbar container ">
+        <a href="." class="logo"><img  class="logos" src={Logo} alt="Web Page Logo" /></a>
         <input type="checkbox" id="toggler"/>
         <label for="toggler"><i class="ri-menu-line"></i></label>
         <div class="menu">

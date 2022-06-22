@@ -439,6 +439,14 @@ img {
    width: 295px;
  }
 
+ #nord{
+  height: 140px;
+  width: auto;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+ }
+
 
 
  .projectInfo{
