@@ -1,5 +1,17 @@
 # 💻 My Personal Website / Portfolio - [akintunde.dev](https://www.akintunde.dev/) 🚀
 
+[![Akintunde Sallam. Front-End Developer](https://ik.imagekit.io/m7wnsef4h/title_suGZkbOOt.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656967917074)](https://www.akintunde.dev/)
+
+Portfolio website 💻 showcasing my skills 🎓 and work experience 💼.
+
+Get to know more about me and my journey towards reaching my professional goals 🥅.
+
+Built with React and hosted on Netlify 🚀.
+
+Stop by to see my projects and ideas ⚡.
+
+Blog / technical writing page coming soon 📖.
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
